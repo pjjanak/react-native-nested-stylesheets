@@ -1,0 +1,19 @@
+{
+  "name": "react-native-nested-stylesheet",
+  "version": "0.0.1",
+  "description": "Based off of the react-native StyleSheet, the NestedStyleSheet allows for nesting of styles.",
+  "keywords": ["react", "react native", "style", "stylesheet"],
+  "bugs": "https://github.com/pjjanak/react-native-nested-stylesheets/issues",
+  "license": "GPL-2.0",
+  "author": {
+    "name": "Peter Janak"
+  },
+  "main": "./src/NestedStyleSheet.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjjanak/react-native-nested-stylesheets.git"
+  },
+  "dependencies": {
+    "react-native": "^0.3.1"
+  }
+}
