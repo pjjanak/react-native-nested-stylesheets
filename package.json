@@ -1,6 +1,6 @@
 {
   "name": "react-native-nested-stylesheet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nestable stylesheets for react-native.",
   "keywords": ["react", "react native", "style", "stylesheet", "react-native"],
   "bugs": "https://github.com/pjjanak/react-native-nested-stylesheets/issues",
