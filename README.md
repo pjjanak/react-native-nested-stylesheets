@@ -17,7 +17,7 @@ namespace: {
 ...
 ```
 
-With the plain `StyleSheet` API you can only create stylesheets with one level of nesting. It should noted that this does not create cascading selectors. This is merely to allow namespacing of styles (e.g. containing the styles for all items in a specific `ListView`.
+With the plain `StyleSheet` API you can only create stylesheets with one level. It should noted that `NestedStyleSheet` does not create cascading selectors. This is merely to allow namespacing of styles (e.g. containing the styles for all items in a specific `ListView`).
 
 Note: You are only allowed to include other objects within a nested style. You cannot define rules at the namespace level.
 
