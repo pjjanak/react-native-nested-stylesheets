@@ -1,10 +1,10 @@
 {
   "name": "react-native-nested-stylesheet",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Nestable stylesheets for react-native.",
   "keywords": ["react", "react native", "style", "stylesheet", "react-native"],
   "bugs": "https://github.com/pjjanak/react-native-nested-stylesheets/issues",
-  "license": "GPL-2.0",
+  "license": "MIT",
   "author": {
     "name": "Peter Janak"
   },
