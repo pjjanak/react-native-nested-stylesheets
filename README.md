@@ -54,7 +54,7 @@ var Demo = React.createClass({
 		return (
 			<View style={styles.cells.container}>
 				<Image source={{...}} style={styles.cells.thumbnail}
-				<View style={styles.content}>
+				<View style={styles.cells.content}>
 					<Text>...</Text>
 				</View>
 			</View>
